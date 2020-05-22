@@ -1,0 +1,4 @@
+USART.c:12:9:USART_Read	16	static
+USART.c:20:6:USART_Write	32	static
+USART.c:34:6:USART_Write_String	24	static
+USART.c:43:6:USART_IRQHandler	24	static
